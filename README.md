@@ -4,6 +4,7 @@ Type a city in the search bar and find out what the weather is in that city.
 **Link to project:** [weatherviews.netlify.app](https://weatherviews.netlify.app/)
 
 
+![bafkreigk3ygf5vq6k7mjiriwdp6itfbhgrmngbbgn2osywe5kg66yyjslq](https://github.com/user-attachments/assets/1ff0292e-b18b-44e6-96af-90aa2eedee12)
 
 ## How It's Made:
 
